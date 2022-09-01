@@ -3,7 +3,7 @@ Learning has become a major component of many robotics research areas such as pe
 to date with the latest work happening in this domain. **Presented papers should at least have a real or simulated robot deployement components**.
 
 ## Logistics
-- During the Fall term, we will meet on Fridays at 12:00 pm in person at Mila
+- During the Fall term, we will meet on Fridays at 12:00 pm in person at Mila.
 - **Reading Group participates are expected to read each paper beforehand.**
 - For any questions, please create an issue in this repo.
 

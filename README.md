@@ -10,7 +10,10 @@ to date with the latest work happening in this domain. **Presented papers should
 ## Schedule
 |   Date   | Paper |  Presenters  | Slides |
 |:--------:|:-------:|:------:|:--------:|
-| 09/09/22 | - | - | - |
+| 09/16/22 | - | - | - |
+| 09/23/22 | - | - | - |
+| 09/30/22 | - | - | - |
+
 
 ## Paper Presentation Instructions
 

@@ -12,7 +12,7 @@ to date with the latest work happening in this domain. **Presented papers should
 |:--------:|:-------:|:------:|:--------:|
 | 09/16/22 | - | - | - |
 | 09/23/22 | - | - | - |
-| 09/30/22 | - | - | - |
+| 09/30/22 | Research Talk | Zhongyu Li (UC Berkely) | - |
 
 
 ## Paper Presentation Instructions

@@ -12,7 +12,7 @@ to date with the latest work happening in this domain. **Presented papers should
 |:--------:|:-------:|:------:|:--------:|
 | 09/16/22 | [Square Root SAM: Simultaneous Localization and Mapping via Square Root Information Smoothing](https://smartech.gatech.edu/bitstream/handle/1853/38669/Square+Root+SAM+Simultaneous+L[…]apping+via+Square+Root+Information+Smoothing.pdf?sequence=1) and [iSAM: Incremental Smoothing and Mapping](http://www.cs.cmu.edu/~kaess/pub/Kaess08tro.pdf) | Liam Paull | - |
 | 09/23/22 | - | - | - |
-| 09/30/22 | Research Talk | Zhongyu Li (UC Berkeley) | - |
+| 09/30/22 | Can We Bridge Model-based Control and Model-free RL on Legged Robots? | Zhongyu Li (UC Berkeley) | - |
 
 
 ## Paper Presentation Instructions
